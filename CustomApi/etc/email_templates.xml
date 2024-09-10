@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Mail/etc/email_templates.xsd">
+    <template id="custom_password_reset_template" label="Custom Password Reset Template" file="custom_password_reset_template.html" type="html" module="Kitchen_CustomApi" area="frontend"/>
+</config>
